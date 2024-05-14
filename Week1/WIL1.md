@@ -1,1 +1,7 @@
-![img/week1.png](https://drive.google.com/file/d/108BjXRtoy57F7RL1GAb4bUtF3chB4_E9/view?usp=sharing)
+![img/week1.png](https://ibb.co/BN9RjGX)
+
+1. html 파일의 기본적인 구조를 알 수 있었음
+2. html과 css의 관계를 알 수 있었음    
+3. css가 무엇이고 어떻게 html 파일에 적용되는지 알 수 있었음(직접 스타일을 넣기, 헤더에 인라인으로 넣기, 외부 파일로 import나 link를 사용하여 넣기)    
+4. 폰트, 글자 크기, 색깔, 정렬, 줄간격 등을 어떻게 적용하는지 알 수 있었음.    
+5. 생소한 문법에 대해 배울 수 있었음. 처음에는 많이 당황했지만 구글링을 통해 천천히 찾아보니 과제를 끝낼 수 있었음.     
