@@ -1,4 +1,4 @@
-![img/week1.png](https://ibb.co/BN9RjGX)
+![week1.png](/img/week1.png)
 
 1. html 파일의 기본적인 구조를 알 수 있었음
 2. html과 css의 관계를 알 수 있었음    
