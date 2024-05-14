@@ -1,1 +1,1 @@
-![](./img/week1.png)
+![사진](./img/week1.png)
