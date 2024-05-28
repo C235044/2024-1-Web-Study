@@ -1,4 +1,7 @@
 1. HTTP 통신 메소드인 GET, POST, PUT, PATCH, DELETE를 직접 체험해보고 그 사용 사례를 정리    
+![GET.png](/Week3/GET.png)    
+![POST.png](/Week3/POST.png)    
+
 
 2.HTTP/1.1, HTTP/2, HTTP/3의 차이점 및 역사    
 1.1: 1997년에 첫 등장, 연결 재사용, 파이프라이닝 도입    
